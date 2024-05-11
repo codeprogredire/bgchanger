@@ -1,1 +1,1 @@
-# This is a mini-project written in React in which we change the background by button clicks.
+# This is a mini-project written in React and Tailwind in which we change the background by button clicks.
